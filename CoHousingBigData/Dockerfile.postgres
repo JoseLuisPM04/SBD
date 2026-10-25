@@ -1,0 +1,6 @@
+# Dockerfile.postgres - Configuración para el contenedor de PostgreSQL
+FROM postgres:16
+ENV POSTGRES_DB=cohousing_db
+ENV POSTGRES_USER=couser
+ENV POSTGRES_PASSWORD=copassword
+EXPOSE 5432

@@ -1,0 +1,107 @@
+{
+    "origen_base_datos": "PostgreSQL (cohousing_db)",
+    "analisis": "Monitoreo de Eficiencia Energética e IoT por Vivienda",
+    "justificacion_importancia": "Unir las comunidades, viviendas y lecturas de sensores IoT permite calcular la intensidad energética por metro cuadrado. Esto ayuda a detectar fugas de calefacción o fallos en electrodomésticos, garantizando la sostenibilidad y el ahorro energético en el complejo.",
+    "metricas_eficiencia": [
+        {
+            "comunidad": "Cohousing Gustavo Expósito Coronado S.A.",
+            "vivienda": "Apto 1010",
+            "superficie_m2": 71.27,
+            "tipo_sensor_iot": "Electricidad",
+            "ubicacion_sensor": "Apto 1010",
+            "promedio_consumo_medido": 11.15,
+            "pico_maximo_registrado": 11.15,
+            "unidad_medida": "kWh"
+        },
+        {
+            "comunidad": "Cohousing Desarrollo Alcántara S.L.N.E",
+            "vivienda": "Apto 103",
+            "superficie_m2": 40.59,
+            "tipo_sensor_iot": "Electricidad",
+            "ubicacion_sensor": "Apto 103",
+            "promedio_consumo_medido": 11.1,
+            "pico_maximo_registrado": 11.1,
+            "unidad_medida": "kWh"
+        },
+        {
+            "comunidad": "Cohousing Desarrollo Alcántara S.L.N.E",
+            "vivienda": "Apto 101",
+            "superficie_m2": 54.11,
+            "tipo_sensor_iot": "Electricidad",
+            "ubicacion_sensor": "Apto 101",
+            "promedio_consumo_medido": 9.44,
+            "pico_maximo_registrado": 9.44,
+            "unidad_medida": "kWh"
+        },
+        {
+            "comunidad": "Cohousing Desarrollo Alcántara S.L.N.E",
+            "vivienda": "Apto 104",
+            "superficie_m2": 102.26,
+            "tipo_sensor_iot": "Electricidad",
+            "ubicacion_sensor": "Apto 104",
+            "promedio_consumo_medido": 9.27,
+            "pico_maximo_registrado": 9.27,
+            "unidad_medida": "kWh"
+        },
+        {
+            "comunidad": "Cohousing Desarrollo Alcántara S.L.N.E",
+            "vivienda": "Apto 102",
+            "superficie_m2": 56.92,
+            "tipo_sensor_iot": "Electricidad",
+            "ubicacion_sensor": "Apto 102",
+            "promedio_consumo_medido": 8.19,
+            "pico_maximo_registrado": 8.19,
+            "unidad_medida": "kWh"
+        },
+        {
+            "comunidad": "Cohousing Gustavo Expósito Coronado S.A.",
+            "vivienda": "Apto 106",
+            "superficie_m2": 60.05,
+            "tipo_sensor_iot": "Electricidad",
+            "ubicacion_sensor": "Apto 106",
+            "promedio_consumo_medido": 5.5,
+            "pico_maximo_registrado": 5.5,
+            "unidad_medida": "kWh"
+        },
+        {
+            "comunidad": "Cohousing Gustavo Expósito Coronado S.A.",
+            "vivienda": "Apto 109",
+            "superficie_m2": 60.7,
+            "tipo_sensor_iot": "Electricidad",
+            "ubicacion_sensor": "Apto 109",
+            "promedio_consumo_medido": 5.07,
+            "pico_maximo_registrado": 5.07,
+            "unidad_medida": "kWh"
+        },
+        {
+            "comunidad": "Cohousing Gustavo Expósito Coronado S.A.",
+            "vivienda": "Apto 107",
+            "superficie_m2": 59.5,
+            "tipo_sensor_iot": "Electricidad",
+            "ubicacion_sensor": "Apto 107",
+            "promedio_consumo_medido": 3.37,
+            "pico_maximo_registrado": 3.37,
+            "unidad_medida": "kWh"
+        },
+        {
+            "comunidad": "Cohousing Desarrollo Alcántara S.L.N.E",
+            "vivienda": "Apto 105",
+            "superficie_m2": 91.08,
+            "tipo_sensor_iot": "Electricidad",
+            "ubicacion_sensor": "Apto 105",
+            "promedio_consumo_medido": 3.04,
+            "pico_maximo_registrado": 3.04,
+            "unidad_medida": "kWh"
+        },
+        {
+            "comunidad": "Cohousing Gustavo Expósito Coronado S.A.",
+            "vivienda": "Apto 108",
+            "superficie_m2": 86.37,
+            "tipo_sensor_iot": "Electricidad",
+            "ubicacion_sensor": "Apto 108",
+            "promedio_consumo_medido": 2.67,
+            "pico_maximo_registrado": 2.67,
+            "unidad_medida": "kWh"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "origen_base_datos": "MySQL (cohousing_db)",
+    "analisis": "Correlación entre Perfil Sociológico y Uso de Instalaciones Comunes",
+    "justificacion_importancia": "Unir estas 4 tablas es crítico para la junta del cohousing, ya que revela si las salas diseñadas responden a la sociabilidad e intereses reales de los vecinos. Evita inversiones en zonas comunitarias infrautilizadas y fomenta actividades grupales afines.",
+    "indicadores_clave": [
+        {
+            "residente": "Jorge Cobos",
+            "nivel_sociabilidad": 7,
+            "horario_preferido": "Tarde",
+            "intereses": "Profesión: Expendedor de gasolineras | Podía sistemas jefe medios europa humanos.",
+            "espacio_comun_reservado": "Sala de Estar",
+            "total_reservas_realizadas": 1,
+            "asistentes_totales_convocados": 5
+        },
+        {
+            "residente": "Jorge Cobos",
+            "nivel_sociabilidad": 7,
+            "horario_preferido": "Tarde",
+            "intereses": "Profesión: Expendedor de gasolineras | Podía sistemas jefe medios europa humanos.",
+            "espacio_comun_reservado": "Taller Bricolaje",
+            "total_reservas_realizadas": 1,
+            "asistentes_totales_convocados": 2
+        },
+        {
+            "residente": "Lucía Córdoba",
+            "nivel_sociabilidad": 2,
+            "horario_preferido": "Tarde",
+            "intereses": "Profesión: Peón de explotaciones de cultivos mixtos y ganaderos | Puerto director humano aparece.",
+            "espacio_comun_reservado": "Huerto Solar",
+            "total_reservas_realizadas": 1,
+            "asistentes_totales_convocados": 2
+        },
+        {
+            "residente": "Lucía Córdoba",
+            "nivel_sociabilidad": 2,
+            "horario_preferido": "Tarde",
+            "intereses": "Profesión: Peón de explotaciones de cultivos mixtos y ganaderos | Puerto director humano aparece.",
+            "espacio_comun_reservado": "Taller Bricolaje",
+            "total_reservas_realizadas": 1,
+            "asistentes_totales_convocados": 8
+        },
+        {
+            "residente": "Álvaro Oliver",
+            "nivel_sociabilidad": 9,
+            "horario_preferido": "Tarde",
+            "intereses": "Profesión: Pulidor de vidrio | Carlos seguridad riesgo claro.",
+            "espacio_comun_reservado": "Huerto Solar",
+            "total_reservas_realizadas": 1,
+            "asistentes_totales_convocados": 8
+        },
+        {
+            "residente": "Candela Izquierdo",
+            "nivel_sociabilidad": 5,
+            "horario_preferido": "Tarde",
+            "intereses": "Profesión: Panaderos, pasteleros y confiteros | Recuerdo tuvo haber entre ser.",
+            "espacio_comun_reservado": "Taller Bricolaje",
+            "total_reservas_realizadas": 1,
+            "asistentes_totales_convocados": 4
+        },
+        {
+            "residente": "Vera Palomar",
+            "nivel_sociabilidad": 10,
+            "horario_preferido": "Tarde",
+            "intereses": "Profesión: Peón de explotaciones de cultivos mixtos y ganaderos | Aun eso bastante puso principal realizar nos respecto.",
+            "espacio_comun_reservado": "Taller Bricolaje",
+            "total_reservas_realizadas": 1,
+            "asistentes_totales_convocados": 4
+        },
+        {
+            "residente": "Noa Egea",
+            "nivel_sociabilidad": 2,
+            "horario_preferido": "Tarde",
+            "intereses": "Profesión: Empleado de servicios estadísticos, financieros y de seguros | Dice encontrar vamos vida torno has mayoría toma.",
+            "espacio_comun_reservado": "Sala de Estar",
+            "total_reservas_realizadas": 1,
+            "asistentes_totales_convocados": 2
+        },
+        {
+            "residente": "Noa Egea",
+            "nivel_sociabilidad": 2,
+            "horario_preferido": "Tarde",
+            "intereses": "Profesión: Empleado de servicios estadísticos, financieros y de seguros | Dice encontrar vamos vida torno has mayoría toma.",
+            "espacio_comun_reservado": "Taller Bricolaje",
+            "total_reservas_realizadas": 1,
+            "asistentes_totales_convocados": 2
+        },
+        {
+            "residente": "Saturnino Llorente",
+            "nivel_sociabilidad": 3,
+            "horario_preferido": "Tarde",
+            "intereses": "Profesión: Empleado de agencia de viajes | Línea cultural oficial ocho conocimiento.",
+            "espacio_comun_reservado": "Cocina Comunitaria",
+            "total_reservas_realizadas": 1,
+            "asistentes_totales_convocados": 2
+        }
+    ]
+}

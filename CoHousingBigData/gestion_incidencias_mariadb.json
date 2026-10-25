@@ -1,0 +1,257 @@
+{
+    "origen_base_datos": "MariaDB (cohousing_db)",
+    "analisis": "Gestión de Incidencias de Convivencia y Coste de Mantenimiento",
+    "justificacion_importancia": "Cruzar las incidencias graves reportadas por residentes con las facturas de la comunidad permite auditar el impacto económico de los desperfectos y averías. Facilita la asignación presupuestaria preventiva y la resolución transparente de conflictos comunitarios.",
+    "auditoria_incidencias_gastos": [
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Francia septiembre fueron modo podría instituciones.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Odalys Mayo",
+            "concepto_factura_comunitaria": "Servicios Maza y asociados S.L.N.E - IBAN: ES5674917489206276475826",
+            "monto_factura_euros": 677.62,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Congreso quería pronto quizá natural parece.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Remigio Rodrigo",
+            "concepto_factura_comunitaria": "Servicios Maza y asociados S.L.N.E - IBAN: ES5674917489206276475826",
+            "monto_factura_euros": 677.62,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Ejército le militar quizá fin.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Camila Barberá",
+            "concepto_factura_comunitaria": "Servicios Maza y asociados S.L.N.E - IBAN: ES5674917489206276475826",
+            "monto_factura_euros": 677.62,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Creo jamás internacional carta grandes ejército.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Rufino Blázquez",
+            "concepto_factura_comunitaria": "Servicios Maza y asociados S.L.N.E - IBAN: ES5674917489206276475826",
+            "monto_factura_euros": 677.62,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Mirada interior pese.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "José Ángel Cordero",
+            "concepto_factura_comunitaria": "Servicios Maza y asociados S.L.N.E - IBAN: ES5674917489206276475826",
+            "monto_factura_euros": 677.62,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Francia septiembre fueron modo podría instituciones.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Odalys Mayo",
+            "concepto_factura_comunitaria": "Servicios Gordillo y Rios S.A.U - IBAN: ES1640605341286493604468",
+            "monto_factura_euros": 661.61,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Congreso quería pronto quizá natural parece.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Remigio Rodrigo",
+            "concepto_factura_comunitaria": "Servicios Gordillo y Rios S.A.U - IBAN: ES1640605341286493604468",
+            "monto_factura_euros": 661.61,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Ejército le militar quizá fin.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Camila Barberá",
+            "concepto_factura_comunitaria": "Servicios Gordillo y Rios S.A.U - IBAN: ES1640605341286493604468",
+            "monto_factura_euros": 661.61,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Creo jamás internacional carta grandes ejército.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Rufino Blázquez",
+            "concepto_factura_comunitaria": "Servicios Gordillo y Rios S.A.U - IBAN: ES1640605341286493604468",
+            "monto_factura_euros": 661.61,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Mirada interior pese.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "José Ángel Cordero",
+            "concepto_factura_comunitaria": "Servicios Gordillo y Rios S.A.U - IBAN: ES1640605341286493604468",
+            "monto_factura_euros": 661.61,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Francia septiembre fueron modo podría instituciones.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Odalys Mayo",
+            "concepto_factura_comunitaria": "Servicios Guadalupe Grau Calvet S.Coop. - IBAN: ES6366108136811504181022",
+            "monto_factura_euros": 527.51,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Congreso quería pronto quizá natural parece.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Remigio Rodrigo",
+            "concepto_factura_comunitaria": "Servicios Guadalupe Grau Calvet S.Coop. - IBAN: ES6366108136811504181022",
+            "monto_factura_euros": 527.51,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Ejército le militar quizá fin.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Camila Barberá",
+            "concepto_factura_comunitaria": "Servicios Guadalupe Grau Calvet S.Coop. - IBAN: ES6366108136811504181022",
+            "monto_factura_euros": 527.51,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Creo jamás internacional carta grandes ejército.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Rufino Blázquez",
+            "concepto_factura_comunitaria": "Servicios Guadalupe Grau Calvet S.Coop. - IBAN: ES6366108136811504181022",
+            "monto_factura_euros": 527.51,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Mirada interior pese.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "José Ángel Cordero",
+            "concepto_factura_comunitaria": "Servicios Guadalupe Grau Calvet S.Coop. - IBAN: ES6366108136811504181022",
+            "monto_factura_euros": 527.51,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Francia septiembre fueron modo podría instituciones.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Odalys Mayo",
+            "concepto_factura_comunitaria": "Servicios Inmobiliaria Cerro & Asociados S.Coop. - IBAN: ES6074241796057394155435",
+            "monto_factura_euros": 430.68,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Congreso quería pronto quizá natural parece.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Remigio Rodrigo",
+            "concepto_factura_comunitaria": "Servicios Inmobiliaria Cerro & Asociados S.Coop. - IBAN: ES6074241796057394155435",
+            "monto_factura_euros": 430.68,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Ejército le militar quizá fin.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Camila Barberá",
+            "concepto_factura_comunitaria": "Servicios Inmobiliaria Cerro & Asociados S.Coop. - IBAN: ES6074241796057394155435",
+            "monto_factura_euros": 430.68,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Creo jamás internacional carta grandes ejército.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Rufino Blázquez",
+            "concepto_factura_comunitaria": "Servicios Inmobiliaria Cerro & Asociados S.Coop. - IBAN: ES6074241796057394155435",
+            "monto_factura_euros": 430.68,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Mirada interior pese.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "José Ángel Cordero",
+            "concepto_factura_comunitaria": "Servicios Inmobiliaria Cerro & Asociados S.Coop. - IBAN: ES6074241796057394155435",
+            "monto_factura_euros": 430.68,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Francia septiembre fueron modo podría instituciones.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Odalys Mayo",
+            "concepto_factura_comunitaria": "Servicios Manufacturas AL S.L.N.E - IBAN: ES1145967590018167850337",
+            "monto_factura_euros": 104.45,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Congreso quería pronto quizá natural parece.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Remigio Rodrigo",
+            "concepto_factura_comunitaria": "Servicios Manufacturas AL S.L.N.E - IBAN: ES1145967590018167850337",
+            "monto_factura_euros": 104.45,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Ejército le militar quizá fin.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Camila Barberá",
+            "concepto_factura_comunitaria": "Servicios Manufacturas AL S.L.N.E - IBAN: ES1145967590018167850337",
+            "monto_factura_euros": 104.45,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Creo jamás internacional carta grandes ejército.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "Rufino Blázquez",
+            "concepto_factura_comunitaria": "Servicios Manufacturas AL S.L.N.E - IBAN: ES1145967590018167850337",
+            "monto_factura_euros": 104.45,
+            "estado_pago": "Pagada"
+        },
+        {
+            "comunidad": "Cohousing Montserrat y Anguita S.L.U.",
+            "incidencia_reportada": "Mirada interior pese.",
+            "prioridad": "Media",
+            "estado_incidencia": "Resuelta",
+            "reportado_por_residente": "José Ángel Cordero",
+            "concepto_factura_comunitaria": "Servicios Manufacturas AL S.L.N.E - IBAN: ES1145967590018167850337",
+            "monto_factura_euros": 104.45,
+            "estado_pago": "Pagada"
+        }
+    ]
+}

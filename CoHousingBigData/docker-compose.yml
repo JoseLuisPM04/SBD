@@ -1,0 +1,55 @@
+services:
+  # MOTOR 1: MySQL
+  mysql_cohousing:
+    build:
+      context: .
+      dockerfile: Dockerfile.mysql
+    container_name: mysql_cohousing_container
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: cohousing_db
+      MYSQL_USER: couser
+      MYSQL_PASSWORD: copassword
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    restart: always
+
+  # MOTOR 2: PostgreSQL
+  postgres_cohousing:
+    build:
+      context: .
+      dockerfile: Dockerfile.postgres
+    container_name: postgres_cohousing_container
+    environment:
+      POSTGRES_DB: cohousing_db
+      POSTGRES_USER: couser
+      POSTGRES_PASSWORD: copassword
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: always
+
+  # MOTOR 3: MariaDB
+  mariadb_cohousing:
+    build:
+      context: .
+      dockerfile: Dockerfile.mariadb
+    container_name: mariadb_cohousing_container
+    environment:
+      MARIADB_ROOT_PASSWORD: rootpassword
+      MARIADB_DATABASE: cohousing_db
+      MARIADB_USER: couser
+      MARIADB_PASSWORD: copassword
+    ports:
+      - "3307:3306"
+    volumes:
+      - mariadb_data:/var/lib/mysql
+    restart: always
+
+volumes:
+  mysql_data:
+  postgres_data:
+  mariadb_data:

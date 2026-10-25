@@ -1,0 +1,7 @@
+# Dockerfile.mariadb - Configuración para el contenedor de MariaDB
+FROM mariadb:11.2
+ENV MARIADB_DATABASE=cohousing_db
+ENV MARIADB_USER=couser
+ENV MARIADB_PASSWORD=copassword
+ENV MARIADB_ROOT_PASSWORD=rootpassword
+EXPOSE 3306
